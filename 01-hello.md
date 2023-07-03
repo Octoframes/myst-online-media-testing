@@ -12,7 +12,6 @@ Content:
 * Video in [](#fig-video).  
 * GIF in [](#fig-gif).  
 * SVG in [](#fig-svg).
-* Interactive image compare view in [](#fig-compare_view).  
 * Dataframe in in [](#fig-dataframe).
 * Tweet in [](#fig-tweet).
 
@@ -46,10 +45,7 @@ My GIF
 An SVG example 
 :::
 
-:::{figure} #my-compare_view
-:name: fig-compare_view
-Interactive image compare view 
-:::
+
 
 
 :::{figure} #my-dataframe
@@ -65,6 +61,11 @@ My dataframe
 My Tweet
 :::
 
+
+<!-- :::{figure} #my-compare_view
+:name: fig-compare_view
+Interactive image compare view 
+::: -->
 
 
  <!-- For pdf export, run `myst build 01-hello.md` -->
