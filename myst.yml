@@ -6,6 +6,8 @@ project:
   keywords: []
   authors: []
   github: https://github.com/Octoframes/myst-online-media-testing
+  thebe: false
+
   # bibliography: []
 site:
   template: book-theme
